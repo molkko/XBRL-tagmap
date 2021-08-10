@@ -1,0 +1,151 @@
+[
+    {
+        "keytag": "Revenue",
+        "tags": [
+            "Revenues",
+            "Revenue",
+            "NetSales",
+            "NetSalesRevenue",
+            "TotalSales",
+            "ProductAndOtherSales",
+            "ProductSales",
+            "Productsalesandother",
+            "Productsalesandservicerevenue",
+            "ProductSalesNet",
+            "ProductSalesRevenue",
+            "RevenueFromGrossSales",
+            "Sales",
+            "SalesOfGoods",
+            "SalesRevenueGross",
+            "SalesRevenueNet",
+            "SalesRevenuesNet",
+            "RevenueFromContractsWithCustomers",
+            "RevenueFromRenderingOfServices",
+            "PropertyServiceChargeIncome",
+            "InterestRevenueCalculatedUsingEffectiveInterestMethod",
+            "FeeAndCommissionIncome",
+            "RevenuesFromInterestThereofCalculatedBasedOnTheEffectiveInterestRateMethod",
+            "RevenueFromContractWithCustomerExcludingAssessedTax",
+	    "RevenueFromRelatedParties",
+	    "SalesRevenueGoodsNet"
+        ]
+    },
+    {
+        "keytag": "ProfitLoss",
+        "tags": [
+            "ProfitLoss",
+            "EarningsBeforeTaxesAndInterests",
+            "EBIT",
+            "Earnings",
+            "ProfitLossFromOperatingActivities",
+            "ProfitLossAttributableToOwnersOfParent",
+            "NetIncomeLoss",
+            "NetIncomeLoss2",
+            "NetIncomeLossPerCommonShareBasicAndDiluted",
+	    "IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+            "ComprehensiveIncome"
+        ]
+    },
+    {
+        "keytag": "CashFlow",
+        "tags": [
+            "Cashtofromoperations",
+            "FreeCashflow",
+            "CashFlowsFromUsedInOperatingActivities",
+            "CashFlowsFromUsedInOperations",
+            "CashFlowsFromUsedInOperationsBeforeChangesInWorkingCapital",
+            "NetCashProvidedByUsedInOperatingActivities",
+            "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations"
+        ]
+    },
+    {
+        "keytag": "Equity",
+        "tags": [
+            "Equity",
+            "EquityAttributableToOwnersOfParent",
+            "StockholdersEquity",
+            "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+            "EquityRestated"
+        ]
+    },
+    {
+        "keytag": "Assets",
+        "tags": [
+            "Assets",
+            "EquityAndLiabilities",
+            "AssetsLessCurrentLiabilities"
+        ]
+    },
+    {
+        "keytag": "Cash",
+        "tags": [
+            "Cash",
+            "CashAndCashEquivalents",
+            "CashAndCashEquivalentsAtCarryingValue",
+            "CashAndBankBalancesAtCentralBanks",
+            "CashCashEquivalentsAndRestricedCash",
+            "CaissesEtBanquesCentrales"
+        ]
+    },
+    {
+        "keytag": "Shares",
+        "tags": [
+            "Shares",
+            "NumberOFSharesIssued",
+            "NumberOfSharesOutstanding",
+            "AverageNumberOfSharesDiluted",
+            "WeightedAverageShares",
+            "AdjustedWeightedAverageShares",
+            "NumberOfSharesDiluted",
+	    "CommonStockSharesAuthorized",
+	    "CommonStockSharesIssued",
+	    "CommonStockSharesOutstanding",
+	    "EntityCommonStockSharesOutstanding",
+            "WeightedAverageNumberOfShareOutstandingBasicAndDiluted"
+        ]
+    },
+    {
+        "keytag": "EPS",
+        "tags": [
+            "BasicEarningsLossPerShare",
+            "EarningsPerShareBasic",
+            "EarningsPerShareBasicAndDiluted",
+            "EarningsPerShareDiluted",
+            "DilutedEarningsLossPerShare",
+            "BasicAndDilutedEarningsLossPerShare",
+            "BasicEarningsLossPerShareFromContinuingOperations",
+            "BasicAndDilutedEarningsLossPerShareFromContinuingOperations",
+            "BasicAndDilutedEarningsLossPerShareAttributableToOwnersOfParent",
+            "DilutedEarningsLossPerShareFromContinuingOperations"
+        ]
+    },
+    {
+        "keytag": "ComprehensiveIncome",
+        "tags": [
+            "ComprehensiveIncome",
+            "ComprehensiveIncomeAttributableToOwnersOfParent",
+            "ComprehensiveIncomeNetOfTax"
+        ]
+    },
+    {
+        "keytag": "SharePrice",
+        "tags": [
+            "SharePrice",
+            "PerSharePrice",
+            "SharesIssuedPricePerShare",
+            "SharesIssuedPricePerShare1",
+            "SharesOutstandingPricePerShare",
+            "CashPricePerOrdinaryShare",
+            "CompanysNasdaqSharePricePerShare",
+            "Publicfloatshareprice",
+            "PublicFloatStockPrice",
+            "SaleOfStockPricePerShare",
+            "TreasuryStockAveragePrice",
+            "TreasuryStockAveragePricePerShare",
+            "CommonStockValue",
+            "PreferredStockValue",
+	    "CommonStockParOrStatedValuePerShare"
+
+	]
+    }
+]
